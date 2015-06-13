@@ -1,5 +1,7 @@
 Tabular
 ==============
+http://vimcasts.org/episodes/aligning-text-with-tabular-vim/
+
 Sometimes, it's useful to line up text.  Naturally, it's nicer to have the
 computer do this for you, since aligning things by hand quickly becomes
 unpleasant.  While there are other plugins for aligning text, the ones I've
